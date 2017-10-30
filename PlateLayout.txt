@@ -1,0 +1,29 @@
+EnzymePlate
+1	sample
+2	secondStrandSynthesisMix
+3	t4dna Polymerase
+4	edta
+5	rNtpMix
+6	ivtMix
+7	postIvt
+8	finishedSamples
+
+ReactionPlate
+1	secondStrandSynthesis
+2	infill
+3	firstBeadSeparation
+4	ivt
+5	secondBeadSeparation
+6
+7
+8
+
+BeadPlate
+1	spriBeads
+2	ethanol
+3	ethanol
+4	mqDilute
+5	mqWash
+6	oil
+7
+8	firstBeadBinding

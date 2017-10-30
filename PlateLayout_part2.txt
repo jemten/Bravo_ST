@@ -1,0 +1,37 @@
+EnzymePlate
+1	sample + adapter 
+2	T4 RNA ligase (+ denaturated samples) + post ligation Row
+3	RT primer mix (+ adapter cleaned samples)
+4	Superscript III mix (+ denaturated samples) + post cDNA synthesis row
+5	
+5	post cDNA synthesis
+6	
+7	
+8	finished samples
+
+ReactionPlate
+1	adapter/sample denaturation + ligation
+2	adpater spri cleanup
+3	RT primer denaturation + cDNA synthesis
+4	cDNA spri cleanup
+5	
+6	
+7
+8	
+
+BeadPlate
+1	spriBeads
+2	ethanol
+3	ethanol
+4	mqDilute
+5	mqWash
+6	oil
+7
+8	
+
+WastePlate
+
+tipBox	
+
+empty tipbox
+
